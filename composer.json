@@ -1,0 +1,15 @@
+{
+    "name": "aozora0000/inject-handler",
+    "authors": [
+        {
+            "name": "aozora0000",
+            "email": "aozora0000@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Apps" : "src/"
+        }
+    }
+}
